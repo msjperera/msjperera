@@ -7,6 +7,7 @@ My name is Maneth Shihalan Joshua Perera (aka Josh) and I am a postgraduate stud
 - 🔭 Currently working on: Building my GitHub Profile!
 
 [![LinkedIn][1.1]][1]
+[![GitHub] [1.1]][2]
 
 <p>&nbsp;</p>
 
@@ -18,8 +19,11 @@ My name is Maneth Shihalan Joshua Perera (aka Josh) and I am a postgraduate stud
 <!-- links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/joshuaperera/
+[2]: https://www.github.com/msjperera
 
 <!-- icons without padding -->
 
 [1.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
+[1.2]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 
