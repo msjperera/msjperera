@@ -3,6 +3,14 @@
 <!--
 **msjperera/msjperera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+My name is Maneth Shihalan Joshua Perera (aka Josh) and I am a postgraduate student at Cass Business School studying MSc. Business Analytics based in London, UK.
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
