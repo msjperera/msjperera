@@ -2,9 +2,6 @@
 
 My name is Maneth Shihalan Joshua Perera (aka Josh) and I am a postgraduate student at Cass Business School studying MSc. Business Analytics based in London, UK.
 
-<br />
-[![LinkedIn][1.1]][1]
-
 - 👨🏽‍💻 Languages & Tools: Python, R, Swift (Xcode), VBA
 - 🧐 Interests: Machine Learning, Programming, Data Analytics, Consulting
 - 🔭 Currently working on: Building my GitHub Profile!
@@ -20,7 +17,7 @@ My name is Maneth Shihalan Joshua Perera (aka Josh) and I am a postgraduate stud
 
 
 <!-- GitHub stats -->
-<a href="https://github.com/msjperera/msjperera">
+<a align="center" href="https://github.com/msjperera/msjperera">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msjperera&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
