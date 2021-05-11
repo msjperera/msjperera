@@ -2,7 +2,7 @@
 
 My name is Maneth Shihalan Joshua Perera (aka Josh) and I am a postgraduate student at Cass Business School studying MSc. Business Analytics based in London, UK. 
 
-You can find me on [![LinkedIn][1.1]][1].
+You can find me on  [![LinkedIn][1.1]][1].
 
 <!-- links to your social media accounts -->
 
