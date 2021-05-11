@@ -5,7 +5,8 @@ My name is Maneth Shihalan Joshua Perera (aka Josh) and I am a postgraduate stud
 - 👨🏽‍💻 Languages & Tools: Python, R, Swift (Xcode), VBA
 - 🧐 Interests: Machine Learning, Programming, Data Analytics, Consulting
 - 🔭 Currently working on: Building my GitHub Profile!
-- 📱 Socials: [![LinkedIn][1.1]][1]
+- 📱 Socials:
+[![LinkedIn][1.1]][1]
 
 
 <!-- links to your social media accounts -->
