@@ -6,9 +6,9 @@ My name is Maneth Shihalan Joshua Perera (aka Josh) and I am a postgraduate stud
 - 🧐 Interests: Machine Learning, Programming, Data Analytics, Consulting
 - 🔭 Currently working on: Building my GitHub Profile!
 
-<p>&nbsp;</p>
-
 [![LinkedIn][1.1]][1]
+
+<p>&nbsp;</p>
 
 <!-- GitHub stats -->
 <a href="https://github.com/msjperera/msjperera">
