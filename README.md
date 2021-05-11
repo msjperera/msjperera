@@ -14,7 +14,7 @@ My name is Maneth Shihalan Joshua Perera (aka Josh) and I am a postgraduate stud
 
 <!-- icons without padding -->
 
-[1.1]: <img https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg width = "22px" />
+[1.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 
 <!-- GitHub stats -->
