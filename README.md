@@ -1,6 +1,6 @@
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Analyst and ex-Business Analytics Student
+Current Analyst and ex-MSc Business Analytics Student
 
 - 💻 Languages & Tools: Python, R, Tableau, SQL (Postgres), Swift (Xcode) and MS Excel
 - 🧐 Interests: Data Analytics, Innovation Strategy and Software Development
