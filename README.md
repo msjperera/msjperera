@@ -1,6 +1,6 @@
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Maneth Shihalan Joshua Perera (aka Josh) and I'm a MSc Business Analytics student at Cass Business School based in London, UK.
+Analyst and ex-Business Analytics Student
 
 - 💻 Languages & Tools: Python, R, Tableau, SQL (Postgres), Swift (Xcode) and MS Excel
 - 🧐 Interests: Data Analytics, Innovation Strategy and Software Development
