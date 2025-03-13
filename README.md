@@ -1,9 +1,7 @@
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Current Analyst and ex-MSc Business Analytics Student
-
-- 💻 Languages & Tools: Python, R, Tableau, SQL (Postgres), Swift (Xcode) and MS Excel
-- 🧐 Interests: Data Analytics, Innovation Strategy and Software Development
+- 💻 Languages & Tools: Python, R, Tableau, SQL, Swift (Xcode), Selenium, JavaScript
+- 🧐 Interests: Data Engineering and Software Development
 - 🔭 Currently Working On: Building my GitHub Portfolio!
 
 [![GitHub][1.1]][1]
